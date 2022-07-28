@@ -9,3 +9,7 @@ body{
 .total-card{
     background-color: #F4FAFD;
 }
+footer{
+    height: 350px;
+    background-color: black;
+}
