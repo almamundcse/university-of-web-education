@@ -1,10 +1,18 @@
+/* google font  link */
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300&family=Oleo+Script+Swash+Caps:wght@700&family=Poppins:wght@500&display=swap');
+
 body{
     margin: 0;
     padding: 0;
-    font-family: sans-serif;
+    font-family: 'Nunito Sans', sans-serif;
+    font-family: 'Oleo Script Swash Caps', cursive;
+    font-family: 'Poppins', sans-serif;
 }
 .nav-text{
     color: #4A4A4A;
+}
+.carousel-caption {
+    top: 30%;
 }
 .total-card{
     background-color: #F4FAFD;
